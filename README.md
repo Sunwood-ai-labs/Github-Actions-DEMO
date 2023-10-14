@@ -13,7 +13,7 @@ license: apache-2.0
 
 # Github-Actions-DEMO
 
-
+## run.yaml
 
 [.github\workflows\run.yaml](.github\workflows\run.yaml)
 
@@ -41,3 +41,8 @@ jobs:
         run: git push --force https://MakiAi:$HF_TOKEN@huggingface.co/spaces/MakiAi/Github-Actions-DEMO main
 
 ```
+
+
+## token
+
+[token](image\token.png)
