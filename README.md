@@ -45,4 +45,4 @@ jobs:
 
 ## token
 
-[token](image\token.png)
+[token](image/token.png)
