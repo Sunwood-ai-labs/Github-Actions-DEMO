@@ -45,4 +45,4 @@ jobs:
 
 ## token
 
-[token](image/token.png)
+[token](https://github.com/Sunwood-ai-labs/Github-Actions-DEMO/blob/main/image/token.png)
